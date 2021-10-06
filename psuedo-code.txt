@@ -1,0 +1,27 @@
+// caesar function psuedo code
+/* 
+// if there is no shift present, equal to 0, less than -25, or greater than 25,
+    // return false
+*/
+
+
+// polybius function psuedo code
+/* 
+// create an object of letters and a corresponding code as the value for each
+// Array.from() allows us to iterate over an array that has a length of charCount
+      // but each index is empty(undefined)
+      // we devide charCount by 2, 
+      // since we want inputPairs to have a length half of that of inputDoubleSpaced
+*/
+
+// substitution function psuedo code
+/* 
+// create an alphabet array of unique characters
+// and the values being a mixed up alphabet
+// convert the input to lower case letters
+// iterate over the input
+// for each index of the input, change it to the corresponding value in the cipher object
+// if the current index is a non-alphabetic symbol or a space,
+// it should add that same symbol to the new string
+// return the new string
+*/
